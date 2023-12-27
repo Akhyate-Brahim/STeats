@@ -1,13 +1,6 @@
 # SopiaTech Eats-Team-23-24
 
 
-## TEAM
-
-El Betioui Jamal Eddine (PO)
-Akhyate Brahim (SA)
-Mesaouri Deboun Bilal (QA)
-Beidouri Saad (Ops)
-
 ## Les principaux UC traités
 
 #### [#19 Place an order](https://github.com/PNS-Conception/ste-23-24-equipe-r/issues/19)
@@ -94,6 +87,12 @@ Le projet adopte une structure d'architecture en couches (*layered architecture*
 - repositories: pour abstraction de la persistance des données.
 - util: Fonctions utilitaires.
 
+
+## TEAM
+
+El Betioui Jamal Eddine (PO)
+Akhyate Brahim (SA)
+Beidouri Saad (Ops)
    
 
    
