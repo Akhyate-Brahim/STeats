@@ -86,13 +86,6 @@ Le projet adopte une structure d'architecture en couches (*layered architecture*
 - interfaces: Contrats pour les composants.
 - repositories: pour abstraction de la persistance des données.
 - util: Fonctions utilitaires.
-
-
-## TEAM
-
-El Betioui Jamal Eddine (PO)
-Akhyate Brahim (SA)
-Beidouri Saad (Ops)
    
 
    
